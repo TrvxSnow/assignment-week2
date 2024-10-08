@@ -1,0 +1,9 @@
+.form {
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    padding: 5rem;
+}
+.table {
+    border: 2px solid black;
+}
